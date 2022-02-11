@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "188972567559",
+    "project_id": "morningo",
+    "storage_bucket": "morningo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188972567559:android:df5841f565acd99e5aaea2",
+        "android_client_info": {
+          "package_name": "com.example.morningo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188972567559-9nnfv0q5sgfe6l6boevp9kcr8fgojfb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvp8F5eOFueJRP1vmxHkhseee7ZEg360"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188972567559-9nnfv0q5sgfe6l6boevp9kcr8fgojfb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188972567559-1r8m7oq74rpgtcpoaq1j16lbgfp1t368.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morningo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
